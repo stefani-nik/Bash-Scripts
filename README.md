@@ -1,3 +1,5 @@
+# Bash Scripts
+
 ### This repository has some bash scripts for solving different problems.
 
 **!! The comments in the scripts are in Bulgarian**
